@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\dell\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\dell\source\repos\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\dell\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\dell\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+D:\Second Semester\C# App\bin\Debug\ConsoleApp3.exe.config
+D:\Second Semester\C# App\bin\Debug\ConsoleApp3.exe
+D:\Second Semester\C# App\bin\Debug\ConsoleApp3.pdb
+D:\Second Semester\C# App\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Second Semester\C# App\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Second Semester\C# App\obj\Debug\ConsoleApp3.exe
+D:\Second Semester\C# App\obj\Debug\ConsoleApp3.pdb

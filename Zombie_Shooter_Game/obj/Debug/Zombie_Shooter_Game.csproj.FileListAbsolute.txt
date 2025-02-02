@@ -1,0 +1,7 @@
+D:\Second Semester\C# Game\Zombie_Shooter_Game\bin\Debug\Zombie_Shooter_Game.exe.config
+D:\Second Semester\C# Game\Zombie_Shooter_Game\bin\Debug\Zombie_Shooter_Game.exe
+D:\Second Semester\C# Game\Zombie_Shooter_Game\bin\Debug\Zombie_Shooter_Game.pdb
+D:\Second Semester\C# Game\Zombie_Shooter_Game\obj\Debug\Zombie_Shooter_Game.csproj.AssemblyReference.cache
+D:\Second Semester\C# Game\Zombie_Shooter_Game\obj\Debug\Zombie_Shooter_Game.csproj.CoreCompileInputs.cache
+D:\Second Semester\C# Game\Zombie_Shooter_Game\obj\Debug\Zombie_Shooter_Game.exe
+D:\Second Semester\C# Game\Zombie_Shooter_Game\obj\Debug\Zombie_Shooter_Game.pdb
